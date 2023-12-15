@@ -1,0 +1,84 @@
+
+.accroche{
+    display: block;
+    text-align: left;
+    color: #2d2d2d;
+}
+
+.accroche h2{
+    font-size: 1.5em;
+    margin-left: 50px;
+    font-weight: 200;
+
+}
+
+.principal{
+    height: 800px;
+    background: #fffbf1 ;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+
+}
+
+.principal h1{
+    color: #2d2d2d;
+    text-align: left;
+
+}
+
+.pack-content{
+    margin-bottom: 150px;
+    display: grid;
+    grid-template-columns: 550px 550px ;
+}
+
+.pack-content .r-pack p{
+    width: 100%;
+    color: #000000;
+    text-align: left;
+}
+
+.l-pack{
+    display: grid;
+    grid-template-columns: 250px 250px;
+    gap: 50px;
+    
+
+}
+
+.pack{
+    height: 200px;
+    width: 200px;
+
+}
+
+.pack i{
+    padding-left: 300px;
+    padding-top: 50px;
+
+}
+
+.pack p{
+    display: flex;
+    width: 100%;
+    padding-left: 220px;
+    color: #000000;
+    text-align: center;
+
+}
+
+.apropos{
+    color: #00FF9D;
+    text-decoration: underline;
+}
+
+.back-video{
+    position: relative;
+    left: 30px;
+    width: 99%;
+    z-index: 1;
+    height: 300px;
+    width: 600px;
+}
+

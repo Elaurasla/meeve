@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="332.000000pt"
+   height="102.000000pt"
+   viewBox="0 0 332.000000 102.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg5"
+   sodipodi:docname="logo-meeve.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.3441265"
+     inkscape:cx="204.22185"
+     inkscape:cy="94.485154"
+     inkscape:window-width="1350"
+     inkscape:window-height="720"
+     inkscape:window-x="267"
+     inkscape:window-y="72"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <g
+     transform="translate(0.000000,102.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g5"
+     style="fill:#00ff9d;fill-opacity:1"
+     inkscape:label="g5">
+    <path
+       d="M498 552 c-87 -142 -160 -266 -164 -276 -6 -15 0 -17 57 -14 l64 3 85 152 c46 83 88 149 92 147 4 -3 10 -20 14 -39 5 -29 -2 -48 -60 -143 -36 -61 -66 -113 -66 -116 0 -3 27 -6 60 -6 59 0 60 0 87 42 l26 43 11 -40 12 -40 57 -3 c40 -2 57 1 57 9 0 7 -14 57 -32 110 l-32 97 25 46 c13 25 26 46 29 46 3 0 24 -69 46 -152 l40 -153 57 -3 c40 -2 57 1 57 9 0 20 -164 539 -170 539 -3 0 -30 -41 -59 -90 -29 -50 -57 -92 -61 -95 -4 -2 -20 38 -36 90 -16 52 -31 95 -34 95 -3 0 -76 -116 -162 -258z"
+       id="path1"
+       style="fill:#00ff9d;fill-opacity:1" />
+    <path
+       d="M1151 756 c-51 -18 -109 -72 -138 -129 -37 -71 -39 -179 -4 -250 43 -88 144 -136 258 -123 66 8 97 23 142 69 l34 36 -34 20 c-42 26 -43 26 -79 -1 -39 -29 -125 -36 -168 -14 -31 16 -62 61 -62 91 0 13 25 15 190 15 l190 0 0 43 c0 105 -55 202 -135 238 -46 21 -142 24 -194 5z m168 -113 c17 -16 33 -40 37 -55 l6 -28 -126 0 c-81 0 -126 4 -126 10 0 21 30 69 52 84 14 10 44 16 75 16 44 0 58 -5 82 -27z"
+       id="path2"
+       style="fill:#00ff9d;fill-opacity:1" />
+    <path
+       d="M1655 746 c-94 -43 -144 -128 -145 -244 0 -86 17 -132 68 -185 71 -72 214 -87 308 -32 39 23 74 59 74 76 0 3 -17 14 -38 23 -38 17 -39 17 -77 -8 -29 -20 -50 -26 -92 -26 -46 0 -58 4 -88 33 -19 17 -37 44 -41 60 l-6 27 191 0 191 0 0 48 c0 152 -93 251 -235 252 -42 0 -75 -7 -110 -24z m174 -90 c15 -8 32 -26 39 -41 25 -54 23 -55 -114 -55 l-125 0 7 23 c10 31 35 64 59 76 30 15 102 13 134 -3z"
+       id="path3"
+       style="fill:#00ff9d;fill-opacity:1" />
+    <path
+       d="M2651 758 c-53 -15 -136 -105 -155 -168 -31 -104 -11 -205 54 -270 91 -91 265 -92 354 -1 l38 39 -42 25 c-42 25 -42 25 -61 6 -61 -61 -188 -49 -224 21 -31 61 -34 60 176 60 l192 0 -6 64 c-11 112 -52 180 -132 217 -44 20 -137 24 -194 7z m168 -115 c17 -16 33 -40 37 -55 l6 -28 -126 0 c-81 0 -126 4 -126 10 0 21 30 69 52 84 14 10 44 16 75 16 44 0 58 -5 82 -27z"
+       id="path4"
+       style="fill:#00ff9d;fill-opacity:1" />
+    <path
+       d="M2010 743 c-1 -4 36 -126 82 -271 64 -204 85 -259 94 -250 6 7 76 119 154 248 79 129 150 245 158 258 l15 23 -69 -3 -68 -3 -79 -140 c-43 -77 -82 -144 -86 -148 -4 -4 -25 59 -47 140 l-39 148 -58 3 c-31 2 -57 -1 -57 -5z"
+       id="path5"
+       style="fill:#00ff9d;fill-opacity:1" />
+  </g>
+</svg>
